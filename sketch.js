@@ -8,13 +8,13 @@ function preload()
 {
   //load images here
   dog = loadImage ("dogImg.png");
-  dog2 = loadImage("dongImg1.png");
+  dog2 = loadImage("dogImg1.png");
   
 }
 
 function setup() {
 	createCanvas(800, 700);
-  
+  background (0, 225, 225);
 }
 
 
